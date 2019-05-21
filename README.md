@@ -1,8 +1,7 @@
 # old_manager
+#vue 社区服务管理系统 （vue+elementUI+axios 实践）
 
-> A Vue.js project
 
-## Build Setup
 
 ``` bash
 # install dependencies
