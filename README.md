@@ -1,5 +1,4 @@
-
-#vue 社区服务管理系统 （vue+elementUI+axios 实践）
+# vue 社区服务管理系统 （vue+elementUI+axios 实践）
 
 ``` bash
 # install dependencies
