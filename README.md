@@ -1,24 +1,5 @@
-# vue 社区服务管理系统 （vue+elementUI+axios 实践）
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
+# vue 社区服务管理系统 （vue+elementUI+axios实践）
+后台管理系统基于后台接口系统的框架基础上使用html5开发。Web系统将采用云平台的方式部署于腾讯云服务器上。功能如下：
+* 服务管理
+* 用户信息管理
+* 订单管理
